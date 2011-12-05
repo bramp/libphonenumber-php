@@ -1,0 +1,8 @@
+PHP Bindings for libphonenumber
+by Andrew Brampton 2011
+
+WORK IN PROGRESS - NO WHERE NEAR FINISHED....
+
+Notes:
+ http://devzone.zend.com/303/extension-writing-part-i-introduction-to-php-and-zend/
+ http://devzone.zend.com/1435/wrapping-c-classes-in-a-php-extension/
